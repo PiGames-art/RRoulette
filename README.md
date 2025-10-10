@@ -41,5 +41,5 @@ chmod +x compile
 ## LICENSE
 GNU is Not Unix Affero General Public License version 3(AGPLv3)
 
-## My first game... I AM SOO HAPPY
+## Ffirst Game - Development Date
 02.10.2025
