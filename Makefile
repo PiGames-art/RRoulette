@@ -1,3 +1,5 @@
+# PiGames/Çınar Kuzey KUMANLI
+# Russian Roulette
 CXX = g++
 CXXFLAGS = -Iinclude
 TARGET = rroulette
