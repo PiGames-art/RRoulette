@@ -42,5 +42,5 @@ cmake --build .
 ## LICENSE
 GNU is Not Unix Affero General Public License version 3(AGPLv3)
 
-## Ffirst Game - Development Date
+## First Game - Development Date
 02.10.2025
