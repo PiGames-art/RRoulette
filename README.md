@@ -2,7 +2,6 @@
 ---
 ## PiGames/Çınar Kuzey KUMANLI presents...
 > NOTE! RUN THIS GAME IN A VM(if you are using linux)
-Finally, i am giving my names meaning after... let me look... April 24 and **I AM DEVELOPING A GAME WITH PIGAMES NAME AFTER 5 FRICKING MONTHS!** I should `git blame myself.cpp`
 Anyways; this russian roulette,
 - Choses a random number between 0 and 10,
 - If you get it true, you are alive 

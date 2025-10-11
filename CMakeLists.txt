@@ -1,3 +1,5 @@
+# Vibe coded cmake bcz i don't know it and dont want to deal with it.
+# Russian Roulette
 cmake_minimum_required(VERSION 3.10)
 project(rroulette)
 
