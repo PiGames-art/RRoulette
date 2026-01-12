@@ -1,7 +1,7 @@
 # Russian Roulette 
 ---
 ## PiGames/Çınar Kuzey KUMANLI presents...
-> NOTE! RUN THIS GAME IN A VM(if you are using linux)
+> NOTE! RUN THIS GAME IN A VM
 Anyways; this russian roulette,
 - Choses a random number between 0 and 10,
 - If you get it true, you are alive 
